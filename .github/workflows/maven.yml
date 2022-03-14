@@ -1,4 +1,4 @@
-name: Java CI with Maven
+name: StatisticService
 
 on: [push, pull_request]
 
